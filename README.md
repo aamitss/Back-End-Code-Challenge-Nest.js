@@ -1,12 +1,10 @@
 # Back End Code Challenge (Nest.js)
-## Coding task for Software Engineer
 
 This is a simple coding task not a coding challenge. This has only **Create and Read** of the small CRUD part for the 
 client section of the application.
 
-### Task
-
-- Create an API endpoint(/users) that accepts following fields  
+## Task
+1. Create an API endpoint(/users) that accepts following fields  
   1. Name
   1. Gender
   1. Phone 
@@ -19,7 +17,7 @@ client section of the application.
 1. You can be creative with the fields.
 1. Add relevant validation to the fields
 1. After form submission, if fields are valid persist the data to disk (json file or database)
-- Create an API end point (/users) to retreive the list of users with all the fields.
+1. Create an API end point (/users) to retreive the list of users with all the fields.
 
 ### Things to consider
 
@@ -34,7 +32,6 @@ client section of the application.
 
 ### Rules/Requirements
 
-1. This task needs to be completed and submitted back within 72 hours of receiving it, if not stated otherwise.
 1. You  must use NestJs (https://docs.nestjs.com/)
 1. Code must be comply with **ESlint standards** or any coding standard. You can use [styleci](https://styleci.io/) for this or use the one suggested in nestjsdocs (if any).
 1. You must have a readme.md file in the root, **well formatted in markdown** (like the one you are reading now) that explains your solution.
