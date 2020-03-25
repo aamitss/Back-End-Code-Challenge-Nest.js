@@ -5,15 +5,15 @@ client section of the application.
 
 ## Task
 1. Create an API endpoint(/users) that accepts following fields
- - Name
- - Gender
-  1. Phone 
-  1. Email 
-  1. Address
-  1. Nationality
-  1. Date of birth
-  1. Education background 
-  1. Preferred mode of contact (select one from email, phone, none)
+   - Name
+   - Gender
+   - Phone 
+   - Email 
+   - Address
+   - Nationality
+   - Date of birth
+   - Education background 
+   - Preferred mode of contact (select one from email, phone, none)
 1. You can be creative with the fields.
 1. Add relevant validation to the fields
 1. After form submission, if fields are valid persist the data to disk (json file or database)
