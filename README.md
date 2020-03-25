@@ -4,8 +4,8 @@ This is a simple coding task not a coding challenge. This has only **Create and 
 client section of the application.
 
 ## Task
-1. Create an API endpoint(/users) that accepts following fields  
-  1.1 Name
+1. Create an API endpoint(/users) that accepts following fields
+ 1. Name
   1.1 Gender
   1. Phone 
   1. Email 
