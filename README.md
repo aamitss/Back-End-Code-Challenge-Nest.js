@@ -5,8 +5,8 @@ client section of the application.
 
 ## Task
 1. Create an API endpoint(/users) that accepts following fields
- 1. Name
-  1.1 Gender
+ - Name
+ - Gender
   1. Phone 
   1. Email 
   1. Address
